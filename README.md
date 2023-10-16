@@ -1,6 +1,6 @@
 ## Pokedex
 
-![Pokedex Logo](./public/pokedex.logo.png)
+![Pokedex Logo](./public/pokedex-logo.png)
 
 ## Ejecutar proyecto:
 
